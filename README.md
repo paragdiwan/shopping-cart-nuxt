@@ -4,7 +4,7 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 
 ## Shopping Cart Example Using Pinia
 
-![alt text](https://github.com/paragdiwan/shopping-cart-nuxt/blob/main/cart.png?raw=true)
+![Snapshot](https://github.com/paragdiwan/shopping-cart-nuxt/blob/main/public/cart.png)
 
 ## Setup
 
